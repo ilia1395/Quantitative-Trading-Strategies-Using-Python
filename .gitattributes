@@ -4,6 +4,3 @@
 # Force Git to treat Jupyter Notebooks (.ipynb) as binary files
 # This prevents Git from trying to diff or normalize notebook contents
 *.ipynb binary
-
-# Disable nbstripout if previously installed
-nbstripout --uninstall
